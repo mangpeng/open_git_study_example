@@ -4,3 +4,4 @@
 <li>충돌해결추가</li>
 <li>원격저장소</li>
 push
+pull
