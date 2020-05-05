@@ -5,3 +5,4 @@
 <li>원격저장소</li>
 push
 pull
+pushpenguin
